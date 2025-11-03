@@ -5,7 +5,7 @@
 ![Qiskit](https://img.shields.io/badge/Qiskit-0.39.0-purple)
 
 > Official code, data, and results accompanying the paper:  
-> *"Hybrid Quantum–Classical Solution of Unit Commitment Problem via QUBO Decomposition and Distributed VQE"*   
+> *"D²-UC: A Distributed–Distributed Quantum–Classical Framework for Unit Commitment"*   
 
 ---
 
