@@ -1,4 +1,4 @@
-# 3B-ADMM-UC-DVQE: Quantum-Ready Unit Commitment Framework
+# D²-UC: A Distributed–Distributed Quantum–Classical Framework for Unit Commitment
 
 ![License](https://img.shields.io/badge/license-Academic-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
