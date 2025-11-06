@@ -34,6 +34,27 @@ All numerical experiments, figures, and dispatch tables in the paper can be repr
 
 ---
 
+## 📚 Citation
+
+If you use the content of this project in your research, please cite:
+
+> M. Hasanzadeh and A. Kargarian, "D²-UC: A Distributed–Distributed Quantum–Classical Framework for Unit Commitment," [https://arxiv.org/abs/2508.17471](https://arxiv.org/abs/2511.03104)
+
+
+---
+
+## 👤 Author
+
+**Milad Hasanzadeh**  
+Department of Electrical and Computer Engineering  
+Louisiana State University  
+📧 e.mhasanzadeh1377@yahoo.com  
+
+📅 **Release Date:** Nov 2025  
+📄 **License:** Academic and Research Use Only  
+
+---
+
 ## 📦 Installation
 
 Clone this repo and install dependencies.  
@@ -49,3 +70,6 @@ cd 3B-ADMM-UC-DVQE
 
 # Install required packages
 pip install -r requirements.txt
+
+
+
